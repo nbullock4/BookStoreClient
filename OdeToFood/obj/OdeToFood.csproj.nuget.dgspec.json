@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nathanbullock/Projects/OdeToFood/OdeToFood/OdeToFood.csproj": {}
+    "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {}
   },
   "projects": {
-    "/Users/nathanbullock/Projects/OdeToFood/OddToFood.Data/OdeToFood.Data.csproj": {
+    "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OddToFood.Data\\OdeToFood.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nathanbullock/Projects/OdeToFood/OddToFood.Data/OdeToFood.Data.csproj",
+        "projectUniqueName": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OddToFood.Data\\OdeToFood.Data.csproj",
         "projectName": "OdeToFood.Data",
-        "projectPath": "/Users/nathanbullock/Projects/OdeToFood/OddToFood.Data/OdeToFood.Data.csproj",
-        "packagesPath": "/Users/nathanbullock/.nuget/packages/",
-        "outputPath": "/Users/nathanbullock/Projects/OdeToFood/OddToFood.Data/obj/",
+        "projectPath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OddToFood.Data\\OdeToFood.Data.csproj",
+        "packagesPath": "C:\\Users\\nbullock\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OddToFood.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nathanbullock/.config/NuGet/NuGet.Config"
+          "C:\\Users\\nbullock\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/nathanbullock/Projects/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj": {
-                "projectPath": "/Users/nathanbullock/Projects/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj"
+              "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+                "projectPath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
               }
             }
           }
@@ -72,26 +74,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/nathanbullock/Projects/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj": {
+    "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nathanbullock/Projects/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj",
+        "projectUniqueName": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
         "projectName": "OdeToFood.Core",
-        "projectPath": "/Users/nathanbullock/Projects/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj",
-        "packagesPath": "/Users/nathanbullock/.nuget/packages/",
-        "outputPath": "/Users/nathanbullock/Projects/OdeToFood/OdeToFood.Core/obj/",
+        "projectPath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "packagesPath": "C:\\Users\\nbullock\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nathanbullock/.config/NuGet/NuGet.Config"
+          "C:\\Users\\nbullock\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -124,37 +128,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/nathanbullock/Projects/OdeToFood/OdeToFood/OdeToFood.csproj": {
+    "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nathanbullock/Projects/OdeToFood/OdeToFood/OdeToFood.csproj",
+        "projectUniqueName": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
         "projectName": "OdeToFood",
-        "projectPath": "/Users/nathanbullock/Projects/OdeToFood/OdeToFood/OdeToFood.csproj",
-        "packagesPath": "/Users/nathanbullock/.nuget/packages/",
-        "outputPath": "/Users/nathanbullock/Projects/OdeToFood/OdeToFood/obj/",
+        "projectPath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "packagesPath": "C:\\Users\\nbullock\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nathanbullock/.config/NuGet/NuGet.Config"
+          "C:\\Users\\nbullock\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/nathanbullock/Projects/OdeToFood/OddToFood.Data/OdeToFood.Data.csproj": {
-                "projectPath": "/Users/nathanbullock/Projects/OdeToFood/OddToFood.Data/OdeToFood.Data.csproj"
+              "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OddToFood.Data\\OdeToFood.Data.csproj": {
+                "projectPath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OddToFood.Data\\OdeToFood.Data.csproj"
               },
-              "/Users/nathanbullock/Projects/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj": {
-                "projectPath": "/Users/nathanbullock/Projects/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj"
+              "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+                "projectPath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
               }
             }
           }
@@ -168,6 +174,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -186,7 +200,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

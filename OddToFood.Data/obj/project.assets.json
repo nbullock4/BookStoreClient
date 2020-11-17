@@ -5778,32 +5778,34 @@
     ]
   },
   "packageFolders": {
-    "/Users/nathanbullock/.nuget/packages/": {}
+    "C:\\Users\\nbullock\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nathanbullock/Projects/OdeToFood/OddToFood.Data/OdeToFood.Data.csproj",
+      "projectUniqueName": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OddToFood.Data\\OdeToFood.Data.csproj",
       "projectName": "OdeToFood.Data",
-      "projectPath": "/Users/nathanbullock/Projects/OdeToFood/OddToFood.Data/OdeToFood.Data.csproj",
-      "packagesPath": "/Users/nathanbullock/.nuget/packages/",
-      "outputPath": "/Users/nathanbullock/Projects/OdeToFood/OddToFood.Data/obj/",
+      "projectPath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OddToFood.Data\\OdeToFood.Data.csproj",
+      "packagesPath": "C:\\Users\\nbullock\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OddToFood.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nathanbullock/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\nbullock\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/nathanbullock/Projects/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj": {
-              "projectPath": "/Users/nathanbullock/Projects/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj"
+            "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+              "projectPath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
             }
           }
         }
@@ -5848,7 +5850,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yY3zgD2JapcE7SCk89yJCC+r77aDU0H5UkXpBOOS8qkTGJ/SfzqwxFwtIb9mhpxuUVB8Fl34b3Qg96NDV8AfTQ==",
+  "dgSpecHash": "AT8TYqaabua/LL+xk4PExblysNv0Uj2F6JiaPY7VcLT/0SFKi4wKqkty89ycPUYNc47cLfL20vlRKI223rLy0w==",
   "success": true,
-  "projectFilePath": "/Users/nathanbullock/Projects/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj",
+  "projectFilePath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
