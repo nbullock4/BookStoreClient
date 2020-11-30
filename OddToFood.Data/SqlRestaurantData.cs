@@ -20,7 +20,7 @@ namespace OdeToFood.Data
 
         public int Commit()
         {
-            throw new System.NotImplementedException();
+            return db.SaveChanges();
         }
 
         public Restaurant Delete(int id)
@@ -36,6 +36,11 @@ namespace OdeToFood.Data
         public Restaurant GetById(int id)
         {
             return db.Restaurants.Find(id);
+        }
+
+        public int GetCountOfRestaurants()
+        {
+            return db.Restaurants.Count();
         }
 
         public IEnumerable<Restaurant> GetRestaurantsByName(string name)

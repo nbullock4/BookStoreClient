@@ -10,7 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore.Design;
-using OdeToFood.Data; 
+using OdeToFood.Data;
+using Microsoft.AspNetCore.Http;
 
 namespace OdeToFood
 {
@@ -47,18 +48,34 @@ namespace OdeToFood
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
+            app.Use(SayHelloMiddleware);
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
             app.UseRouting();
 
             app.UseAuthorization();
+            
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
             });
+        }
+
+        private RequestDelegate SayHelloMiddleware(RequestDelegate next)
+        {
+            return async ctx=>
+            {
+                if(ctx.Request.Path.StartsWithSegments("/hello"))
+                {
+                    await ctx.Response.WriteAsync("Hello, World!");
+                }
+                else
+                {
+                    await next(ctx);
+                }   
+            };
         }
     }
 }

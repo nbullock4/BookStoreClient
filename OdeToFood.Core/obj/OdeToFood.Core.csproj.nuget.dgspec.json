@@ -14,6 +14,7 @@
         "outputPath": "C:\\Users\\nbullock\\Documents\\GitHub\\OdeToFood\\OdeToFood.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
+          "C:\\Users\\nbullock\\Documents\\NuGet.Config",
           "C:\\Users\\nbullock\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

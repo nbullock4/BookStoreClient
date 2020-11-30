@@ -6,16 +6,19 @@
 
 <h2>@Model.Restaurant.Name</h2>
 <div>
-    Id: @Model.Restaurant.Id
+    Order Number: @Model.Restaurant.Id
 </div>
 <div>
-    Id: @Model.Restaurant.Location
+    Product: @Model.Restaurant.Location
 </div>
 <div>
-    Id: @Model.Restaurant.Cuisine
+    Partner: @Model.Restaurant.Cuisine
+</div>
+<div>
+    Customer: @Model.Restaurant.Cuisine
 </div>
 @if(Model.Message != null)
 {
     <div class="alet alert-info">@Model.Message</div>
 }
-<a asp-page="./List" class="btn btn-default">All Restaurants</a>
+<a asp-page="./List" class="btn btn-primary btn-padding">All Orders</a>
